@@ -31,8 +31,32 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/0be89988-fba5-4cfe-b9d9-2daaef9d2290)
+![image](https://github.com/user-attachments/assets/8163fdae-9274-43e1-854e-d535478bc474)
+![image](https://github.com/user-attachments/assets/8e06e337-ee7d-4e80-b859-ff6836db0724)
+![image](https://github.com/user-attachments/assets/d52cdab4-af3d-42c8-b475-d7d01e67dcee)
+![image](https://github.com/user-attachments/assets/2f990bff-c1b2-429c-9b0c-258776476625)
+![image](https://github.com/user-attachments/assets/b4c85afa-2d3d-4be6-abab-6bfd701319ee)
+![image](https://github.com/user-attachments/assets/a5fcce86-9c4d-4c1b-b719-6ae6ea81f20c)
+![image](https://github.com/user-attachments/assets/ffdeca46-505f-4a5e-992b-80c3d841e4ea)
+![image](https://github.com/user-attachments/assets/13327eed-0347-4b25-9853-b526cebd7c50)
+![image](https://github.com/user-attachments/assets/3ce3c5fe-16b3-48bc-a835-88228393fd7a)
+![image](https://github.com/user-attachments/assets/43313a97-df21-45e8-b992-569662b6f534)
+![image](https://github.com/user-attachments/assets/85263b88-a55d-4606-ba6c-a5e7d01277ac)
+![image](https://github.com/user-attachments/assets/dd03fbbe-17ec-4024-aaa3-1a8b3480fab1)
+![image](https://github.com/user-attachments/assets/3ee6e19c-d7d1-4d51-ac9f-ff67ed9d73f4)
+![image](https://github.com/user-attachments/assets/befe37e4-a1eb-471f-aafd-4f9af4d8a360)
+![image](https://github.com/user-attachments/assets/fcdf539f-1301-4c24-bdb2-9bb34846adfe)
+![image](https://github.com/user-attachments/assets/a7235bc1-8f8b-4ad7-a543-dfe734911baa)
+![image](https://github.com/user-attachments/assets/03750258-41ca-48de-9c60-9025d297baab)
+![image](https://github.com/user-attachments/assets/f3964407-cf20-49e4-a44c-48806e9416d8)
+![image](https://github.com/user-attachments/assets/0bfd8e70-9895-4627-97fd-1c0073cf6ec3)
+![image](https://github.com/user-attachments/assets/6e93f834-237b-4df3-b34a-6047c37e3448)
+![image](https://github.com/user-attachments/assets/893e40bf-3f7c-4e79-85e6-f7541516832b)
+![image](https://github.com/user-attachments/assets/fec81ad9-2a83-41c4-b77b-e1828f0a04f7)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus,the feature encoding and transformation process and save the data to the file was performed successfully.
 
        
